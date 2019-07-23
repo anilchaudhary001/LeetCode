@@ -11,6 +11,7 @@
 |    #    |      Title    | Level  | Language  | Tags |   Notes   |
 |:-------:|:--------------|:------:|:---------:|:----:|:---------:|
 |1|[Two Sum.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/1.%20Two%20Sum.java)|Easy|Java|Array||
+|7|[Reverse Integer.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/7.%20Reverse%20Integer.java)|Easy|Java|[]||
 |21|[Remove Duplicates from Sorted Array.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/21.%20Merge%20Two%20Sorted%20Lists.java)|Easy|Java|ListNode||
 
 
