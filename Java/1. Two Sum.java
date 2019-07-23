@@ -21,7 +21,7 @@ return [0, 1].
 
 // Runtime: 14 ms, faster than 44.57% of Java online submissions for Two Sum. 
 // Memory Usage: 37 MB, less than 99.56% of Java online submissions for Two Sum.
-// solution(规定i，j从数组开头遍历到结尾。):
+// solution: (规定i，j从数组开头遍历到结尾。)
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
