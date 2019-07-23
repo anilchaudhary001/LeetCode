@@ -17,7 +17,7 @@ return [0, 1].
 
 */
 
-// solution(i，j遍历数组。查找所有):
+// solution(i，j遍历Array。查找所有):
 // Runtime: 14 ms, faster than 44.57% of Java online submissions for Two Sum.
 // Memory Usage: 37 MB, less than 99.56% of Java online submissions for Two Sum.
 
