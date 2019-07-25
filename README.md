@@ -14,6 +14,7 @@
 |7|[Reverse Integer.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/7.%20Reverse%20Integer.java)|Easy|Java|[]||
 |13|[Roman to Integer.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/13.%20Roman%20to%20Integer.java)|Easy|Java|Map||
 |21|[Remove Duplicates from Sorted Array.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/21.%20Merge%20Two%20Sorted%20Lists.java)|Easy|Java|ListNode||
+|26|[Remove Duplicates from Sorted Array.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java)|Easy|Java|Array||
 |28|[Implement strStr().java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/28.%20Implement%20strStr().java)|Easy|Java|SubString|interesting solution|
 
 
