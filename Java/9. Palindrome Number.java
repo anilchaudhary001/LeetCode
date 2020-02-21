@@ -15,6 +15,8 @@ Example 3:
 Input: 10
 Output: false
 Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
+
+一个数倒过来还是这个数
 */
 
 // Runtime: 6 ms, faster than 100.00% of Java online submissions for Palindrome Number.
