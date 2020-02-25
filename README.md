@@ -19,4 +19,5 @@
 |27|[Remove Element](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/27.%20Remove%20Element.java)|Easy|Java|Array||
 |28|[Implement strStr().java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/28.%20Implement%20strStr().java)|Easy|Java|SubString|interesting solution|
 |35|[Search Insert Position.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/35.%20Search%20Insert%20Position.java)|Easy|Java|Array||
+|53|[Maximum Subarray.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/53.%20Maximum%20Subarray.java)|Easy|Java|contiguous subarray||
 
