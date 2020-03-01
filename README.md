@@ -20,4 +20,5 @@
 |28|[Implement strStr().java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/28.%20Implement%20strStr().java)|Easy|Java|SubString|interesting solution|
 |35|[Search Insert Position.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/35.%20Search%20Insert%20Position.java)|Easy|Java|Array||
 |53|[Maximum Subarray.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/53.%20Maximum%20Subarray.java)|Easy|Java|contiguous subarray||
+|58|[Length of Last Word.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/58.%20Length%20of%20Last%20Word.java)|Easy|Java|String, Array||
 
