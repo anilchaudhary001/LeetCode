@@ -8,19 +8,37 @@ Open brackets must be closed in the correct order.
 Note that an empty string is also considered valid.
 
 Example 1:
-
 Input: "()"
 Output: true
-Example 2:
 
+Example 2:
 Input: "()[]{}"
 Output: true
-Example 3:
 
+Example 3:
 Input: "(]"
 Output: false
+
+Example 4:
+Input: s = "([)]"
+Output: false
+
+Example 5:
+Input: s = "{[]}"
+Output: true
 */
 
+// solution1: only Stack, check left & right
+// step: check length, if length % = 1, return false. Create stack.
+// 
+
+class Solution {
+    public boolean isValid(String s) {
+    }
+}
+
+
+// solution2: HashMap & Stack(or Deque)
 // Runtime: 2 ms
 // Memory Usage: 34.2 MB
 // solution: (加入Map)
@@ -44,7 +62,6 @@ class Solution {
                 stack.push(c);
             }
         }
-        
         
         return stack.empty();
     }
