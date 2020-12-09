@@ -37,7 +37,25 @@ class Solution {
         if (s.length() % 2 == 1)
             return false;
         Stack<Character> stack = new Stack<>();
-        
+        for (int i = 0; i < s.length(); i++) {
+            char character = s.charAt(i);
+            // push left part in to stack
+            if (character == '(' || character == '[' || character == '{') {
+                stack.push(character);
+            } else {
+                // remember check empty. or will cause error. EmptyStackException
+                if (stack.empty()) {
+                    return false;
+                }
+                char preChar = stack.peek();
+                if ((preChar == '(' && character == ')') || (preChar == '[' && character == ']') || (preChar == '{' && character == '}')) {
+                    stack.pop();
+                } else {
+                    return false;
+                }
+            }
+        }
+        return stack.empty();
     }
 }
 
