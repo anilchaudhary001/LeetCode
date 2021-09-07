@@ -24,3 +24,4 @@
 |58|[Length of Last Word.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/58.%20Length%20of%20Last%20Word.java)|Easy|Java|String, Array||
 |67|[Add Binary.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/67.%20Add%20Binary.java)|Easy|Java|||
 |70|[Climbing Stairs.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/70.%20Climbing%20Stairs.java)|Easy|Java|Dynamic Programmig|Dynamic Programmig|
+|167|[Two Sum II.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/1.%20Two%20Sum.java)|Easy|Java|Array||
