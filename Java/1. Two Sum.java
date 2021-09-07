@@ -1,3 +1,4 @@
+// 167. 两数之和 II - 输入有序数组 同理
 /*
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -25,7 +26,7 @@ class Solution {
         for(int i = 0; i < nums.length; i++) {
             for (int j = i+1; j < nums.length; j++) { // 这个地方要注意，是j = i + 1, 不能是j = 0 开始
                 if (nums[i] + nums[j] == target) {
-                    int[] result = new int[]{i,j};
+                    int[] result = new int[]{i,j}; // 167 题在这i+1和j+1就ok
                     return result;
                 }
             }
