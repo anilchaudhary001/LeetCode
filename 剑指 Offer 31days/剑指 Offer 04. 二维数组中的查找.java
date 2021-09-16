@@ -15,6 +15,7 @@
 */
 
 /**
+书上的一个解析：
 数组面试题：二维数组中的查找
 1  2  8  9
 2  4  9  12
@@ -27,23 +28,22 @@
 4  7  10 |13       4  7  |10 13       2  4  |9  12   →   ———————     
 6  8  11 |15       6  8  |11 15       4  7  |10 13       4  7  |10 13
                                       6  8  |11 15       6  8  |11 15
-代码：
-bool Find (int* matrix, int rows, int columns, int number) {
-  bool found = false;
-  if (matrix != NULL && rows > 0 && columns > 0) {
-    int row = 0;
-    int column = columns - 1;
-    while (row < rows && column >= 0) {
-      if(matrix[row * columns + column] == number) {
-        found = true;
-        break;
-      } else if (matrix[row * columns + column] > number) {
-        column--;
-      } else {
-        row++;
-      }
-    }
-  }
-}
-
 */
+
+// 通过书上这个思路写出来的代码：
+class Solution {
+    public boolean findNumberIn2DArray(int[][] matrix, int target) {
+        if(matrix == null || matrix.length == 0) { return false; }
+        int col = 0, row = matrix[0].length - 1;
+        while(col < matrix.length && row >= 0) {
+            if(matrix[col][row] > target) {
+                row--;
+            } else if(matrix[col][row] < target) {
+                col++;
+            } else {
+                return true;
+            }
+        }
+        return false;
+    }
+}
