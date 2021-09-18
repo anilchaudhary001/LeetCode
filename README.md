@@ -26,6 +26,7 @@
 |67|[Add Binary.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/67.%20Add%20Binary.java)|Easy|Java|||
 |70|[Climbing Stairs.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/70.%20Climbing%20Stairs.java)|Easy|Java|Dynamic Programmig|Dynamic Programmig|
 |100|[Same Tree.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/100.%20Same%20Tree.java)|Easy|Java|TreeNode|Recursion|
+|101|[Symmetric Tree.java.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/101.%20Symmetric%20Tree.java)|Easy|Java|TreeNode|Recursion|
 |104|[Maximum Depth of Binary Tree.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/104.%20Maximum%20Depth%20of%20Binary%20Tree.java)|Easy|Java|TreeNode|DFS|
 |110|[Balanced Binary Tree.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/110.%20Balanced%20Binary%20Tree.java)|Easy|Java|TreeNode|Recursion|
 |154|[Find Minimum in Rotated Sorted Array II.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.java)|Hard|Java|||
