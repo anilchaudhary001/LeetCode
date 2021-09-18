@@ -1,4 +1,4 @@
-# Data Structure
+# Data Structure - Binary tree
 
 这是一篇关于二叉树的知识点索引。
 记录在LeetCode上写过的二叉树的题目。
