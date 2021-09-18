@@ -14,7 +14,7 @@
 |7|[Reverse Integer.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/7.%20Reverse%20Integer.java)|Easy|Java|||
 |9|[Palindrome Number.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/9.%20Palindrome%20Number.java)|Easy|Java||include python|
 |13|[Roman to Integer.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/13.%20Roman%20to%20Integer.java)|Easy|Java|Map||
-|15|[3Sum.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/15.%203Sum.java)|Mid|Java|||
+|15|[3Sum.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/15.%203Sum.java)|Medium|Java|||
 |20|[Valid Parentheses.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/20.%20Valid%20Parentheses.java)|Easy|Java|HashMap, Stack||
 |21|[Merge Two Sorted Lists.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/21.%20Merge%20Two%20Sorted%20Lists.java)|Easy|Java|ListNode||
 |26|[Remove Duplicates from Sorted Array.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java)|Easy|Java|Array||
