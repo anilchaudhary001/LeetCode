@@ -25,11 +25,13 @@
 |58|[Length of Last Word.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/58.%20Length%20of%20Last%20Word.java)|Easy|Java|String, Array||
 |67|[Add Binary.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/67.%20Add%20Binary.java)|Easy|Java|||
 |70|[Climbing Stairs.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/70.%20Climbing%20Stairs.java)|Easy|Java|Dynamic Programmig|Dynamic Programmig|
+|94|[Binary Tree Inorder Traversal.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/94.%20Binary%20Tree%20Inorder%20Traversal.java)|Easy|Java|TreeNode|Iteration & Recursion|
 |100|[Same Tree.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/100.%20Same%20Tree.java)|Easy|Java|TreeNode|Recursion|
 |101|[Symmetric Tree.java.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/101.%20Symmetric%20Tree.java)|Easy|Java|TreeNode|Recursion|
 |104|[Maximum Depth of Binary Tree.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/104.%20Maximum%20Depth%20of%20Binary%20Tree.java)|Easy|Java|TreeNode|DFS|
 |110|[Balanced Binary Tree.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/110.%20Balanced%20Binary%20Tree.java)|Easy|Java|TreeNode|Recursion|
 |144|[Binary Tree Preorder Traversal.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/144.%20Binary%20Tree%20Preorder%20Traversal.java)|Easy|Java|TreeNode|Iteration & Recursion|
+|145|[Binary Tree Postorder Traversal.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/145.%20Binary%20Tree%20Postorder%20Traversal.java)|Easy|Java|TreeNode|Iteration & Recursion|
 |154|[Find Minimum in Rotated Sorted Array II.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.java)|Hard|Java|||
 |167|[Two Sum II.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/1.%20Two%20Sum.java)|Easy|Java|Array||
 |206|[Reverse Linked List.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/206.%20Reverse%20Linked%20List.java)|Easy|Java|List||
