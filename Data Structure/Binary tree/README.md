@@ -16,9 +16,9 @@
 |二叉树的属性|104|[二叉树的最大深度.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Data%20Structure/Binary%20tree/104.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.java)|Easy|Java|DFS|
 |二叉树的属性|111|[二叉树的最小深度.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Data%20Structure/Binary%20tree/111.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E6%B7%B1%E5%BA%A6.java)|Easy|Java|BFS|
 |二叉树的属性|222|[完全二叉树的节点个数.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Data%20Structure/Binary%20tree/222.%20%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E8%8A%82%E7%82%B9%E4%B8%AA%E6%95%B0.java)|Easy|Java|Complete Binary Tree|
-|二叉树的属性|110|[二叉树的层序遍历.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Data%20Structure/Binary%20tree/104.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.java)|Easy|Java|Recursion|
-|二叉树的属性|257|[二叉树的层序遍历.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/1.%20Two%20Sum.java)|Easy|Java||
-|二叉树的属性|404|[二叉树的层序遍历.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/1.%20Two%20Sum.java)|Easy|Java||
+|二叉树的属性|110|[平衡二叉树.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Data%20Structure/Binary%20tree/104.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.java)|Easy|Java|Recursion|
+|二叉树的属性|257|[二叉树的所有路径.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/1.%20Two%20Sum.java)|Easy|Java||
+|二叉树的属性|404|[左叶子之和.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/1.%20Two%20Sum.java)|Easy|Java||
 |二叉树的属性|513|[找树左下角的值.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/1.%20Two%20Sum.java)|Easy|Java||
 |二叉树的属性|112|[路径总和.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/1.%20Two%20Sum.java)|Easy|Java||
 |二叉树的修改与构造|226|[翻转二叉树.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Data%20Structure/Binary%20tree/226.%20%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.java)|Easy|Java|Recursion|
