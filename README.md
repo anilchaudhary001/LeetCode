@@ -39,3 +39,4 @@
 |206|[Reverse Linked List.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/206.%20Reverse%20Linked%20List.java)|Easy|Java|List||
 |222|[Count Complete Tree Nodes.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/222.%20Count%20Complete%20Tree%20Nodes.java)|Medium|Java|TreeNode|Complete Binary Tree|
 |226|[Invert Binary Tree.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/226.%20Invert%20Binary%20Tree.java)|Easy|Java|TreeNode|Recursion|
+|257|[Binary Tree Paths.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/257.%20Binary%20Tree%20Paths.java)|Easy|Java|TreeNode|Recursion|
