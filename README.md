@@ -31,6 +31,7 @@
 |102|[Binary Tree Level Order Traversal.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/102.%20Binary%20Tree%20Level%20Order%20Traversal.java)|Medium|Java|TreeNode||
 |104|[Maximum Depth of Binary Tree.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/104.%20Maximum%20Depth%20of%20Binary%20Tree.java)|Easy|Java|TreeNode|DFS|
 |110|[Balanced Binary Tree.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/110.%20Balanced%20Binary%20Tree.java)|Easy|Java|TreeNode|Recursion|
+|111|[Minimum Depth of Binary Tree.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/111.%20Minimum%20Depth%20of%20Binary%20Tree.java)|Easy|Java|TreeNode|BFS|
 |144|[Binary Tree Preorder Traversal.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/144.%20Binary%20Tree%20Preorder%20Traversal.java)|Easy|Java|TreeNode|Iteration & Recursion|
 |145|[Binary Tree Postorder Traversal.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/145.%20Binary%20Tree%20Postorder%20Traversal.java)|Easy|Java|TreeNode|Iteration & Recursion|
 |154|[Find Minimum in Rotated Sorted Array II.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.java)|Hard|Java|||
