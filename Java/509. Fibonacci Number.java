@@ -23,6 +23,16 @@ Explanation: F(4) = F(3) + F(2) = 2 + 1 = 3.
 
 class Solution {
     public int fib(int n) {
-
+        int first = 0, second = 1, result = 0;
+        if (n == 0 || n == 1) {
+            return n;
+        } else {
+            for (int i = 1; i < n; i++) {
+                result = first + second;
+                first = second;
+                second = result;
+            }
+        }
+        return result;
     }
 }
