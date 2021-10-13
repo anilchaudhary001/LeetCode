@@ -21,6 +21,9 @@ Output: 3
 Explanation: F(4) = F(3) + F(2) = 2 + 1 = 3.
 */
 
+// 执行用时：0 ms, 在所有 Java 提交中击败了100.00%的用户
+// 内存消耗：35.3 MB, 在所有 Java 提交中击败了11.50%的用户
+
 class Solution {
     public int fib(int n) {
         int first = 0, second = 1, result = 0;
