@@ -26,6 +26,9 @@ Explanation: There are three ways to climb to the top.
 class Solution {
     public int climbStairs(int n) {
         Map<Integer,Integer> cache = new HashMap<>();
+        if(n == 0) return 0; 
+        if(n == 1) return 1;
+        if(n == 2) return 2;
         cache.put(0, 0);
         cache.put(1, 1);
         cache.put(2, 2);
