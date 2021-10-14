@@ -33,3 +33,34 @@ class Solution {
         return bestSum;
     }
 }
+
+
+
+
+/** -----------------分开简洁一点--------------------- */
+
+class Solution {
+    public int maxSubArray(int[] nums) {
+        int bestSum = 0;
+        if (nums.length == 1) {
+            return nums[0];
+        } else {
+            bestSum = steps(nums);
+        }
+        return bestSum;
+    }
+
+    public int steps (int[] nums) {
+        int currSum = nums[0];
+        int bestSum = nums[0];
+        for (int i = 1; i < nums.length; i++) {
+            if (currSum <= 0 && nums[i] > currSum) {
+                currSum = nums[i];
+            } else {
+                currSum += nums[i];
+            }
+            if (currSum > bestSum) bestSum = currSum;
+        }
+        return bestSum;
+    }
+}
