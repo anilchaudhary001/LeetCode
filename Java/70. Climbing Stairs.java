@@ -21,7 +21,7 @@ Explanation: There are three ways to climb to the top.
 
 // solution: Dynamic Programmig
 // Runtime: 0 ms, faster than 100.00% of Java online submissions for Climbing Stairs.
-// Memory Usage: 36.2 MB, less than 5.26% of Java online submissions for Climbing Stairs.
+// Memory Usage: 35.1 MB, less than 72.05% of Java online submissions for Climbing Stairs.
 
 class Solution {
     public int climbStairs(int n) {
