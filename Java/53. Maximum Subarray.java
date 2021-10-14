@@ -11,20 +11,24 @@ Explanation: [4,-1,2,1] has the largest sum = 6.
 */
 
 // solution
-// Runtime: 1 ms, faster than 79.90% of Java online submissions for Maximum Subarray.
-// Memory Usage: 42 MB, less than 5.16% of Java online submissions for Maximum Subarray.
+// Runtime: 1 ms, faster than 91.75% of Java online submissions for Maximum Subarray.
+// Memory Usage: 42 MB, less than 10.87% of Java online submissions for Maximum Subarray.
 
 class Solution {
     public int maxSubArray(int[] nums) {
         int currSum = nums[0];
         int bestSum = nums[0];
-        
-        
-        for (int i = 1; i < nums.length; i++) {
-            if (currSum <= 0 && nums[i] > currSum) currSum = nums[i];
-            else currSum += nums[i];
-            
-            if (currSum > bestSum) bestSum = currSum;
+        if (nums.length == 1) {
+            return nums[0];
+        } else {
+            for (int i = 1; i < nums.length; i++) {
+                if (currSum <= 0 && nums[i] > currSum) {
+                    currSum = nums[i];
+                } else {
+                    currSum += nums[i];
+                }
+                if (currSum > bestSum) bestSum = currSum;
+            }
         }
         return bestSum;
     }
