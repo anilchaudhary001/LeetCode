@@ -1,9 +1,11 @@
 # Data Structure - Binary tree
 
 这是一篇关于二叉树的知识点索引。
+
 记录在LeetCode上写过的二叉树的题目。
 
 对二叉树有帮助的链接：
+
 https://www.cnblogs.com/lanhaicode/p/10358736.html
 
 https://www.cnblogs.com/lanhaicode/p/10390147.html
