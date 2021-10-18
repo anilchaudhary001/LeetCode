@@ -6,9 +6,9 @@
 
 对二叉树有帮助的链接：
 
-https://www.cnblogs.com/lanhaicode/p/10358736.html
+遍历方式：https://www.cnblogs.com/lanhaicode/p/10358736.html
 
-https://www.cnblogs.com/lanhaicode/p/10390147.html
+重构二叉树：https://www.cnblogs.com/lanhaicode/p/10390147.html
 
 共勉。
 
