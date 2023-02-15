@@ -11,7 +11,7 @@
 |    #    |      Title    | Level  | Language  | Tags |   Notes   |
 |:-------:|:--------------|:------:|:---------:|:----:|:---------:|
 |1|[Two Sum.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/1.%20Two%20Sum.java)|Easy|Java|Array||
-|3|[Longest Substring Without Repeating Characters.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/1.%20Two%20Sum.java)|Medium|Java|||
+|3|[Longest Substring Without Repeating Characters.java]([https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/1.%20Two%20Sum.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/3.%20Longest%20Substring%20Without%20Repeating%20Characters.java))|Medium|Java|||
 |7|[Reverse Integer.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/7.%20Reverse%20Integer.java)|Easy|Java|||
 |9|[Palindrome Number.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/9.%20Palindrome%20Number.java)|Easy|Java||include python|
 |13|[Roman to Integer.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/13.%20Roman%20to%20Integer.java)|Easy|Java|Map||
