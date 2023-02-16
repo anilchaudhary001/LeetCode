@@ -36,27 +36,22 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
      请注意，你的答案必须是 子串 的长度，"pwke" 是一个子序列，不是子串。
 */
 
-// solution(暂存，35/900+):
-
+// solution(暂存，881 / 987):
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         if(s.equals(" ") || s.length() == 1) {
             return 1;
         }
 
-        string uniqueString = "";
-
         List<String> ableList = new ArrayList<String>();
         for(int i = 0; i < s.length(); i++) {
             char firstChar = s.charAt(i);
             int endCharIndex = 0;
-//             if(!uniqueString.contains(s.charAt(i))){
-//                 uniqueString = uniqueString + s.charAt(i);
-//             }
+            String uniqueString = "";
             if(i != s.length()) {
                 for(int j = i + 1; j < s.length(); j++) {
-                    if(s.charAt(j) == s.charAt(i)) {
-                        System.out.println(j);
+                    uniqueString = s.substring(i, j);
+                    if(uniqueString.contains(String.valueOf(s.charAt(j)))) {
                         endCharIndex = j;
                         break;
                     }
