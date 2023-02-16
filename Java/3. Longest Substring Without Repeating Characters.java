@@ -45,7 +45,6 @@ class Solution {
 
         List<String> ableList = new ArrayList<String>();
         for(int i = 0; i < s.length(); i++) {
-            // char firstChar = s.charAt(i);
             int endCharIndex = 0;
             String uniqueString = "";
             if(i != s.length()) {
