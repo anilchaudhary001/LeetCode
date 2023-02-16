@@ -37,7 +37,7 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 */
 
 /*
-solution 1 暴力破解
+solution 1 暴力破解 暴力解法时间复杂度较高，会达到O(n^2)
 执行结果：
 执行用时：178 ms, 在所有 Java 提交中击败了5.69%的用户
 内存消耗：46.4 MB, 在所有 Java 提交中击败了5.04%的用户
