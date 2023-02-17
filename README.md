@@ -26,6 +26,7 @@
 |58|[Length of Last Word.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/58.%20Length%20of%20Last%20Word.java)|Easy|Java|String, Array||
 |67|[Add Binary.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/67.%20Add%20Binary.java)|Easy|Java|||
 |70|[Climbing Stairs.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/70.%20Climbing%20Stairs.java)|Easy|Java|Dynamic Programmig|Dynamic Programmig|
+|88|[Merge Sorted Array.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/88.%20Merge%20Sorted%20Array.java)|Easy|Java|Array|include js|
 |94|[Binary Tree Inorder Traversal.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/94.%20Binary%20Tree%20Inorder%20Traversal.java)|Easy|Java|TreeNode|Iteration & Recursion|
 |100|[Same Tree.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/100.%20Same%20Tree.java)|Easy|Java|TreeNode|Recursion|
 |101|[Symmetric Tree.java.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/101.%20Symmetric%20Tree.java)|Easy|Java|TreeNode|Recursion|
