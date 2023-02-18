@@ -14,7 +14,7 @@
 |3|[Longest Substring Without Repeating Characters.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/3.%20Longest%20Substring%20Without%20Repeating%20Characters.java))|Medium|Java|||
 |7|[Reverse Integer.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/7.%20Reverse%20Integer.java)|Easy|Java|||
 |9|[Palindrome Number.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/9.%20Palindrome%20Number.java)|Easy|Java||include python|
-|11|[Container With Most Water.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/11.%20Container%20With%20Most%20Water.java)|Medium|Java|Double pointer||
+|11|[Container With Most Water.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/11.%20Container%20With%20Most%20Water.java)|Medium|Java|Double Pointer||
 |13|[Roman to Integer.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/13.%20Roman%20to%20Integer.java)|Easy|Java|Map||
 |15|[3Sum.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/15.%203Sum.java)|Medium|Java|||
 |20|[Valid Parentheses.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/20.%20Valid%20Parentheses.java)|Easy|Java|HashMap, Stack||
