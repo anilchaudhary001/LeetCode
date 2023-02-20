@@ -58,6 +58,13 @@ There is no address in the address table for the personId = 1 so we return null 
 addressId = 1 contains information about the address of personId = 2.
 */
 
+/*
+solution:
+执行用时：395 ms, 在所有 MySQL 提交中击败了80.13%的用户
+内存消耗：0 B, 在所有 MySQL 提交中击败了100.00%的用户
+通过测试用例：8 / 8
+*/
+
 # Write your MySQL query statement below
 SELECT p.FirstName, p.LastName, a.City, a.State
 FROM Person p
