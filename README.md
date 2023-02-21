@@ -23,7 +23,7 @@
 |27|[Remove Element](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/27.%20Remove%20Element.java)|Easy|Java|Array||
 |28|[Implement strStr().java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/28.%20Implement%20strStr().java)|Easy|Java|SubString|interesting solution|
 |35|[Search Insert Position.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/35.%20Search%20Insert%20Position.java)|Easy|Java|Array||
-|53|[Maximum Subarray.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/53.%20Maximum%20Subarray.java)|Easy|Java|contiguous subarray||
+|53|[Maximum Subarray.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/53.%20Maximum%20Subarray.java)|Easy|Java|Contiguous Subarray||
 |58|[Length of Last Word.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/58.%20Length%20of%20Last%20Word.java)|Easy|Java|String, Array||
 |67|[Add Binary.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/67.%20Add%20Binary.java)|Easy|Java|||
 |70|[Climbing Stairs.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/70.%20Climbing%20Stairs.java)|Easy|Java|Dynamic Programmig|Dynamic Programmig|
