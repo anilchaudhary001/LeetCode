@@ -1,0 +1,45 @@
+/**
+Given the root of a binary tree, return the sum of all left leaves.
+A leaf is a node with no children. A left leaf is a leaf that is the left child of another node.
+
+Example 1:
+Input: root = [3,9,20,null,null,15,7]
+Output: 24
+Explanation: There are two left leaves in the binary tree, with values 9 and 15 respectively.
+
+Example 2:
+Input: root = [1]
+Output: 0
+**/
+
+/**
+solution:
+执行用时：0 ms, 在所有 Java 提交中击败了100.00%的用户
+内存消耗：39.4 MB, 在所有 Java 提交中击败了48.83%的用户
+通过测试用例：100 / 100
+**/
+
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    public int sumOfLeftLeaves(TreeNode root) {
+        if (root == null) return 0;
+
+        return sumOfLeftLeaves(root.left) 
+            + sumOfLeftLeaves(root.right) 
+            + (root.left != null && root.left.left == null && root.left.right == null ? root.left.val : 0);
+    }
+}
