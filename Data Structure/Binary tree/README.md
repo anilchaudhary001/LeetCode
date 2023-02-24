@@ -27,7 +27,7 @@
 |二叉树的属性|257|[二叉树的所有路径.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Data%20Structure/Binary%20tree/257.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84.java)|Easy|Java|Recursion|
 |二叉树的属性|404|[左叶子之和.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Data%20Structure/Binary%20tree/404.%20%E5%B7%A6%E5%8F%B6%E5%AD%90%E4%B9%8B%E5%92%8C.java)|Easy|Java|Recursion|
 |二叉树的属性|513|[找树左下角的值.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/1.%20Two%20Sum.java)|Easy|Java||
-|二叉树的属性|112|[路径总和.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/1.%20Two%20Sum.java)|Easy|Java||
+|二叉树的属性|112|[路径总和.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Data%20Structure/Binary%20tree/112.%20%E8%B7%AF%E5%BE%84%E6%80%BB%E5%92%8C.java)|Easy|Java|Recursion,DFS|
 |二叉树的修改与构造|226|[翻转二叉树.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Data%20Structure/Binary%20tree/226.%20%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.java)|Easy|Java|Recursion|
 |二叉树的修改与构造|106|[从中序与后序遍历序列构造二叉树.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/1.%20Two%20Sum.java)|Easy|Java||
 |二叉树的修改与构造|654|[最大二叉树.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/1.%20Two%20Sum.java)|Easy|Java||
