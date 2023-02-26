@@ -46,3 +46,5 @@
 |226|[Invert Binary Tree.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/226.%20Invert%20Binary%20Tree.java)|Easy|Java|TreeNode|Recursion|
 |257|[Binary Tree Paths.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/257.%20Binary%20Tree%20Paths.java)|Easy|Java|TreeNode|Recursion|
 |509|[Fibonacci Number.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Java/509.%20Fibonacci%20Number.java)|Easy|Java||Recursion|
+|1114|[Print in Order.java](https://github.com/AaronPhantomhive/LeetCode/blob/master/Thread/1114.%20Print%20in%20Order.java)|Easy|Java|Thread||
+
