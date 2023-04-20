@@ -53,4 +53,7 @@ SQL:
 |:-------:|:--------------|:------:|:---------:|:----:|:---------:|
 |175|[Combine Two Tables.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/175.%20Combine%20Two%20Tables.sql)|Easy|MySQL||LEFT JOIN|
 |181|[Employees Earning More Than Their Managers.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.sql)|Easy|MySQL|Search||
+|584|[Find Customer Referee.sql]()|Easy|MySQL|Search|IS NULL|
+|1757|[Recyclable and Low Fat Products.sql]()|Easy|MySQL|Search||
+|||Easy|MySQL|Search||
 |1757|[Recyclable and Low Fat Products.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1757.Recyclable%20and%20Low%20Fat%20Products.sql)|Easy|MySQL|||
