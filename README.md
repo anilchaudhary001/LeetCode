@@ -51,6 +51,6 @@ SQL:
 
 |    #    |      Title    | Level  | Language  | Tags |   Notes   |
 |:-------:|:--------------|:------:|:---------:|:----:|:---------:|
-|175|[Combine Two Tables.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/175.%20Combine%20Two%20Tables.sql)|Easy|MySQL|||
-|181|[Employees Earning More Than Their Managers.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.sql)|Easy|MySQL|||
+|175|[Combine Two Tables.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/175.%20Combine%20Two%20Tables.sql)|Easy|MySQL||LEFT JOIN|
+|181|[Employees Earning More Than Their Managers.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.sql)|Easy|MySQL|Search||
 |181|[Employees Earning More Than Their Managers.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.sql)|Easy|MySQL|||
