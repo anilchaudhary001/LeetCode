@@ -40,4 +40,13 @@ Explanation: Only products 1 and 3 are both low fat and recyclable.
 
 */
 
+/*
+执行用时：730 ms, 在所有 MySQL 提交中击败了5.04%的用户
+内存消耗：0 B, 在所有 MySQL 提交中击败了100.00%的用户
+通过测试用例：22 / 22
+*/
+
 # Write your MySQL query statement below
+SELECT product_id 
+FROM Products
+WHERE low_fats = 'Y' AND recyclable = 'Y'
