@@ -56,4 +56,6 @@ SQL:
 |584|[Find Customer Referee.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/584.%20Find%20Customer%20Referee.sql)|Easy|MySQL|Search|IS NULL|
 |595|[Big Countries](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/595.%20Big%20Countries.sql)|Easy|MySQL|Search||
 |1148|[Article Views I.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1148.%20Article%20Views%20I.sql)|Easy|MySQL|Search||
+|1683|[Invalid Tweets.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1683.%20Invalid%20Tweets.sql)|Easy|MySQL|Search|length()|
 |1757|[Recyclable and Low Fat Products.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1757.Recyclable%20and%20Low%20Fat%20Products.sql)|Easy|MySQL|||
+
