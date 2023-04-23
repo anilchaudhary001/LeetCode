@@ -53,9 +53,15 @@ SQL:
 |:-------:|:--------------|:------:|:---------:|:----:|:---------:|
 |175|[Combine Two Tables.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/175.%20Combine%20Two%20Tables.sql)|Easy|MySQL||LEFT JOIN|
 |181|[Employees Earning More Than Their Managers.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.sql)|Easy|MySQL|Search||
+|197|Rising Temperature|Easy|MySQL|Join||
+|577|Employee Bonus|Easy|MySQL|Join||
 |584|[Find Customer Referee.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/584.%20Find%20Customer%20Referee.sql)|Easy|MySQL|Search|IS NULL|
 |595|[Big Countries](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/595.%20Big%20Countries.sql)|Easy|MySQL|Search||
+|1068|Product Sales Analysis I|Easy|MySQL|Join||
 |1148|[Article Views I.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1148.%20Article%20Views%20I.sql)|Easy|MySQL|Search||
+|1378|Replace Employee ID With The Unique Identifier|Easy|MySQL|Join||
+|1581|Customer Who Visited but Did Not Make Any Transactions|Easy|MySQL|Join||
 |1683|[Invalid Tweets.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1683.%20Invalid%20Tweets.sql)|Easy|MySQL|Search|length()|
+|1661|Average Time of Process per Machine|Easy|MySQL|Join||
 |1757|[Recyclable and Low Fat Products.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1757.Recyclable%20and%20Low%20Fat%20Products.sql)|Easy|MySQL|||
 
