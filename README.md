@@ -63,7 +63,7 @@ SQL:
 |1280|Students and Examinations.sql|Easy|MySQL|Join||
 |1378|[Replace Employee ID With The Unique Identifier.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql)|Easy|MySQL|Join||
 |1581|[Customer Who Visited but Did Not Make Any Transactions.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql)|Easy|MySQL|Join||
-|1661|Average Time of Process per Machine.sql|Easy|MySQL|Join||
+|1661|[Average Time of Process per Machine.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1661.%20Average%20Time%20of%20Process%20per%20Machine.sql)|Easy|MySQL|Join||
 |1683|[Invalid Tweets.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1683.%20Invalid%20Tweets.sql)|Easy|MySQL|Search|length()|
 |1934|Confirmation Rate.sql|Medium|MySQL|Join||
 |1757|[Recyclable and Low Fat Products.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1757.Recyclable%20and%20Low%20Fat%20Products.sql)|Easy|MySQL|||
