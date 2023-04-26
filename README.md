@@ -54,17 +54,17 @@ SQL:
 |175|[Combine Two Tables.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/175.%20Combine%20Two%20Tables.sql)|Easy|MySQL||LEFT JOIN|
 |181|[Employees Earning More Than Their Managers.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.sql)|Easy|MySQL|Search||
 |197|[Rising Temperature.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/197.%20Rising%20Temperature.sql)|Easy|MySQL|Join|DATEDIFF()|
-|570|Managers with at Least 5 Direct Reports.sql|Medium|MySQL|Join||
+|570|[Managers with at Least 5 Direct Reports.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.sql)|Medium|MySQL|Join||
 |577|[Employee Bonus.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/577.%20Employee%20Bonus.sql)|Easy|MySQL|Join||
 |584|[Find Customer Referee.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/584.%20Find%20Customer%20Referee.sql)|Easy|MySQL|Search|IS NULL|
 |595|[Big Countries.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/595.%20Big%20Countries.sql)|Easy|MySQL|Search||
 |1068|[Product Sales Analysis I.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1068.%20Product%20Sales%20Analysis%20I.sql)|Easy|MySQL|Join||
 |1148|[Article Views I.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1148.%20Article%20Views%20I.sql)|Easy|MySQL|Search||
-|1280|Students and Examinations.sql|Easy|MySQL|Join||
+|1280|[Students and Examinations.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1280.%20Students%20and%20Examinations.sql)|Easy|MySQL|Join||
 |1378|[Replace Employee ID With The Unique Identifier.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql)|Easy|MySQL|Join||
 |1581|[Customer Who Visited but Did Not Make Any Transactions.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql)|Easy|MySQL|Join||
 |1661|[Average Time of Process per Machine.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1661.%20Average%20Time%20of%20Process%20per%20Machine.sql)|Easy|MySQL|Join||
 |1683|[Invalid Tweets.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1683.%20Invalid%20Tweets.sql)|Easy|MySQL|Search|length()|
-|1934|Confirmation Rate.sql|Medium|MySQL|Join||
+|1934|[Confirmation Rate.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1934.%20Confirmation%20Rate.sql)|Medium|MySQL|Join||
 |1757|[Recyclable and Low Fat Products.sql](https://github.com/AaronPhantomhive/LeetCode/blob/master/MySQL/1757.Recyclable%20and%20Low%20Fat%20Products.sql)|Easy|MySQL|||
 
